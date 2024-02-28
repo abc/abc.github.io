@@ -1,7 +1,7 @@
-Alastair Blake Campbell
-=======================
+Blake Campbell
+==============
 
-*ac@mpbell.io*
+*bc@mpbell.io*
 
 *(+44) 7470 755430*
 
@@ -10,9 +10,13 @@ Alastair Blake Campbell
 Experience
 ----------
 
-### Dayshape - 2022 - Present
+### Dayshape - 2022 - 2024
 
 #### Senior Software Engineer
+
+Worked as part of a fully remote agile scrum team to design, develop, test and implement new features and fix bugs in a large, modern, web-based, cloud-hosted SaaS product, across all areas of the SDLC. As a senior developer in the reporting and sync team I primarily worked with data ingress, synchronisation/integration of external systems with our data, transforming data between disparate formats and the development of a fully-fledged customisible report generation feature.
+
+Main technologies used: C#, .NET Framework, SQL Server, ASP.NET MVC, Entity Framework, Javascript/Node.js, React, Angular, CSS/SCSS, Azure, Git, ADO Pipelines CI/CD, Cypress, NUnit, SQL, JSON, XML, YML and others.
 
 ### Bibliographic Data Services - 2012 – 2022 
 
@@ -55,18 +59,10 @@ Education
 ### Dumfries Academy (2006-2011)
 * Attained five Highers, including an A in English and Information Systems.
 
-Other Technical Experience
---------------------------
-
-**Athena**, a club management system
-	I wrote a database/system for use by my local board games club to track 
-	membership, events, payments, and so on. The project was written in php, 
-	with a MySQL backend database. 
-
 Core Skills/Programming Languages
 ---------------------------------
 
-**C#:** I have worked extensively with C#, both professionally and as a 
+**C#/.NET** I have worked extensively with C#, both professionally and as a 
 		hobby, developing everything ranging from business applications, 
 		to games, from web forums to simple web servers. I am additionally 
 		very experienced with the .NET framework and popular NuGet extensions.
@@ -79,15 +75,3 @@ Core Skills/Programming Languages
 * Apache, Microsoft IIS, nginx, Lighttpd
 
 Basic knowledge of **C**, **C++**, **x86 assembly**, **Python**, **rust**...
-
-Other skills/experience 
------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * Norwegian, basic knowledge
-
-* I am a touch typist and have a typing speed of around 100 words per minute.
-
-* I am very experienced with *Vi* and know how to use *LaTeX*.
